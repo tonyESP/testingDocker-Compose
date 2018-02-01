@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# parameters
+MYSQL_ROOT_PWD=${MYSQL_ROOT_PWD:-"root"}
+MYSQL_USER=${MYSQL_USER:-"tony"}
+MYSQL_USER_PWD=${MYSQL_USER_PWD:-"tony"}
+MYSQL_USER_DB=${MYSQL_USER_DB:-"bd"}
